@@ -2,6 +2,6 @@
 
 export const CalendarApp = () => {
   return (
-    <div>CalendarApp</div>
+    <div>CalendarApp-</div>
   )
 }
