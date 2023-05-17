@@ -501,7 +501,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fortawesome/react-fontawesome@npm:^0.2.0":
+"@fortawesome/react-fontawesome@npm:latest":
   version: 0.2.0
   resolution: "@fortawesome/react-fontawesome@npm:0.2.0"
   dependencies:
@@ -3011,7 +3011,7 @@ __metadata:
   dependencies:
     "@fortawesome/fontawesome-svg-core": ^6.4.0
     "@fortawesome/free-solid-svg-icons": ^6.4.0
-    "@fortawesome/react-fontawesome": ^0.2.0
+    "@fortawesome/react-fontawesome": latest
     "@reduxjs/toolkit": ^1.9.5
     "@types/react": ^18.0.28
     "@types/react-dom": ^18.0.11
