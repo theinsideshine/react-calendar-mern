@@ -21,6 +21,23 @@ Axios and its interceptors were used to manage the token
 
 ![](images/interceptores.png)
 
+Login screen
+
+![](images/login.png)
+
+
+Calendar screen 
+
+![](images/calendar.png)
+
+Modal 
+
+![](images/modal.png)
+
+
+
+
+
 
 
 
