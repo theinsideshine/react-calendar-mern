@@ -1,8 +1,6 @@
 import React from 'react'
 import { addHours } from 'date-fns';
 import { useCalendarStore, useUiStore } from '../../hooks';
-
-
 export const FabAddNew = () => {
 
 
@@ -28,7 +26,10 @@ export const FabAddNew = () => {
         className="btn btn-primary fab"
        onClick={ handleClickNew }
     >
-      <i className="fas fa-plus"></i>
+      <i className="fas fa-plus" ></i>
+
+    
     </button>
+
   )
 }
